@@ -139,7 +139,7 @@ In the log-price model, coefficients represent **approximate percentage effects*
 
 ---
 
-## 🛠 Tools & Libraries
+## Tools & Libraries
 
 - **R**
 - `tidyverse`
