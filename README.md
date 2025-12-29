@@ -146,14 +146,7 @@ In the log-price model, coefficients represent approximate percentage effects:
 - `caret`
 - `ggplot2`
 
----
 
-## Possible Extensions
-
-- Add model-level predictors (trim, specification)
-- Apply ridge / lasso regression
-- Compare against regression trees
-- Reframe as a classification task (e.g., high-price vs low-price cars)
 
 
 <p align="center"><sub>Authored by <b>Sevban Ekşi (st3kin)</b> 2025</sub></p>
